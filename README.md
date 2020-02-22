@@ -15,7 +15,7 @@ A camera that can take photos, record videos and face recognition.
 
 6.Click "Add New Face" to add new face data to database
 
-7.2.Click "Disconnect" to disable the camera connection
+7.Click "Disconnect" to disable the camera connection
 
 # Tips
 
