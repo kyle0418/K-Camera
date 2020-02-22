@@ -11,9 +11,11 @@ A camera that can take photos, record videos and face recognition.
 
 4.Click "Record" to record a video
 
-5.Click "Face recognition" to recognize faces
+5.Click "Face Recognition" to recognize faces
 
-6.Click "Add new face" to add new face data to database
+6.Click "Add New Face" to add new face data to database
+
+7.2.Click "Disconnect" to disable the camera connection
 
 # Tips
 
