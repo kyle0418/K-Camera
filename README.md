@@ -19,7 +19,7 @@ A camera that can take photos, record videos and face recognition.
 
 When generating the video, ffmpeg was used to merge the video and audio. Since no suitable ffmpeg wrapper was found, the project included a complete "ffmpeg.exe".
 
-The software release method is essentially a 7z compression package and creates a self-extracting format. So the project startup time will be slightly longer.
+The software release method is essentially a 7z compression package with self-extracting format. So the project startup time will be slightly longer.
 
 Face recognition calls Baidu.AI, so please make sure the network connection is normal when using this function.
 
